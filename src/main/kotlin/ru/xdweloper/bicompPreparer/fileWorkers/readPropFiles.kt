@@ -1,6 +1,5 @@
 package ru.xdweloper.bicompPreparer.fileWorkers
 
-import org.slf4j.Logger
 import ru.xdweloper.bicompPreparer._FINDED_PROP_VALUE
 import ru.xdweloper.bicompPreparer._READED_PROP_TEXT
 import ru.xdweloper.bicompPreparer._READ_FILES
@@ -16,8 +15,7 @@ import java.io.File
 
 
 class PropFileReader{
-    val logger: Logger =
-        getXLogger(PropFileReader::class.java.toString())
+    val logger = getXLogger(PropFileReader::class.java.toString())
     val workDir = System.getProperty("user.dir")
     val propFileList = arrayListOf<PropFile>()
 

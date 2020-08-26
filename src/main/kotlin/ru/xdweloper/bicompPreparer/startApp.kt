@@ -1,6 +1,6 @@
 package ru.xdweloper.bicompPreparer
 
-import org.slf4j.Logger
+import ru.xdweloper.bicompPreparer.fileWorkers.ChangeFileReader
 import ru.xdweloper.bicompPreparer.fileWorkers.PropFileReader
 import ru.xdweloper.bicompPreparer.utils.getXLogger
 import java.util.*
@@ -13,11 +13,11 @@ import java.util.*
 
 
 fun main(args: Array<String>) {
-    var logger: Logger = getXLogger("main")
+    var logger = getXLogger("main")
 
     var inputStr : String? = null
     val propReader = PropFileReader()
-    val propFileList = propReader.propFileList
+    val changesList = ChangeFileReader()
 
 
     val reader = Scanner(System.`in`)
