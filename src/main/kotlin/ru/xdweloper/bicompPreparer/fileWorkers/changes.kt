@@ -4,6 +4,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement
+import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlText
 
 
 /**
@@ -18,9 +19,10 @@ data class Changes(
     val file: List<file> = arrayListOf()
 )
 
-@JsonIgnoreProperties(ignoreUnknown = true)
 data class file(
-    val file: String = "",
+    @JacksonXmlText
+    val file: String = ""
+    ,
     @JacksonXmlProperty(isAttribute = true)
     val fileName: String = ""
 
