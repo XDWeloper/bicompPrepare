@@ -1,7 +1,9 @@
 package ru.xdweloper.bicompPreparer
 
 import ru.xdweloper.bicompPreparer.fileWorkers.PropFileReader
-import ru.xdweloper.bicompPreparer.utils.getXLogger
+import ru.xdweloper.bicompPreparer.mainProcess.startProcessing
+import ru.xdweloper.bicompPreparer.utils.Message
+import ru.xdweloper.bicompPreparer.utils.MessageType
 import java.util.*
 
 /**
@@ -12,23 +14,17 @@ import java.util.*
 
 
 fun main(args: Array<String>) {
-    var logger = getXLogger("main")
 
-    var inputStr : String? = null
     val propReader = PropFileReader()
 //    val changesList = ChangeFileReader("ChangeDate.xml", "c:\\Temp\\BicompWorker\\source")
 
     propReader.propFileList.forEach {
-
+        Message.print("$_SERACHED_PROPFILE ${it.propFileName} $_Q_SERACHED_PROPFILE",MessageType.INFO)
+        if(Scanner(System.`in`).next().also { Message.debug(it) }.toLowerCase() == "y"){
+            startProcessing(it)
+            }
     }
-
-
-    while (!inputStr.equals("exit")) {
-
-            inputStr = Scanner(System.`in`).next()
-            logger.info(_INPUT_TEXT + inputStr)
-        }
-    }
+}
 
 
 
