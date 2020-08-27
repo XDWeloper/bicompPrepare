@@ -1,9 +1,6 @@
 package ru.xdweloper.bicompPreparer.fileWorkers
 
-import ru.xdweloper.bicompPreparer._FINDED_PROP_VALUE
-import ru.xdweloper.bicompPreparer._READED_PROP_TEXT
-import ru.xdweloper.bicompPreparer._READ_FILES
-import ru.xdweloper.bicompPreparer._SEARCHED_FILE
+import ru.xdweloper.bicompPreparer.*
 import ru.xdweloper.bicompPreparer.utils.getXLogger
 import java.io.File
 
@@ -18,9 +15,11 @@ class PropFileReader{
     val logger = getXLogger(PropFileReader::class.java.toString())
     val workDir = System.getProperty("user.dir")
     val propFileList = arrayListOf<PropFile>()
+    var propReadState: ReaderState = ReaderState.OK
+    var propReaderError: String? = null
 
 
-    constructor(){
+    init {
         loadAllPropFiles()
     }
 
@@ -33,7 +32,6 @@ class PropFileReader{
                 logger.info("$_SEARCHED_FILE $it")
                 getPropFromFile(it)?.let { it1 -> propFileList.add(it1) }
             }
-
     }
 
     private fun getPropFromFile(propFile: File): PropFile? {

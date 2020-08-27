@@ -1,0 +1,571 @@
+26.08.2020 11:26:49.435 [main] INFO   r.x.b.PropFileReader - Читаем файлы из каталога D:\KotlinProjects\bicompPrepare
+26.08.2020 11:26:49.517 [main] INFO   r.x.b.PropFileReader - Найден файл FXbicom.properties
+26.08.2020 11:27:21.302 [main] INFO   r.x.b.PropFileReader - Читаем файлы из каталога D:\KotlinProjects\bicompPrepare
+26.08.2020 11:27:21.369 [main] INFO   r.x.b.PropFileReader - Найден файл FXbicom.properties
+26.08.2020 11:37:11.899 [main] INFO   c.x.b.PropFileReader - Читаем файлы из каталога D:\KotlinProjects\bicompPrepare
+26.08.2020 11:37:11.959 [main] INFO   c.x.b.PropFileReader - Найден файл FXbicom.properties
+26.08.2020 11:48:15.906 [main] INFO   c.x.b.PropFileReader - Читаем файлы из каталога D:\KotlinProjects\bicompPrepare
+26.08.2020 11:48:15.966 [main] INFO   c.x.b.PropFileReader - Найден файл FXbicom.properties
+26.08.2020 11:48:18.887 [main] INFO   main - Введеный текст: fghdfgdhfgh
+26.08.2020 11:48:21.396 [main] INFO   main - Введеный текст: -09i0-645[6i4-056
+26.08.2020 11:58:46.366 [main] INFO   c.x.b.PropFileReader - Читаем файлы из каталога: D:\KotlinProjects\bicompPrepare
+26.08.2020 11:58:46.435 [main] INFO   c.x.b.PropFileReader - Найден файл: FXbicom.properties
+26.08.2020 11:58:46.440 [main] INFO   c.x.b.PropFileReader - Прочитан текст: readDir=c:\\Temp\\BicompWorker\\read\\
+workDir=c:\\Temp\\BicompWorker\\work\\
+sourceDir=c:\\Temp\\BicompWorker\\source\\
+changeFile=ChangeDate.xml
+projectName=FXbicomp.jar
+
+26.08.2020 12:49:19.087 [main] INFO   c.x.b.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 12:49:19.167 [main] INFO   c.x.b.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties.name
+26.08.2020 12:49:19.178 [main] INFO   c.x.b.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 12:49:19.214 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 12:49:19.215 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 12:49:19.216 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 12:49:19.216 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 12:49:19.216 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 13:01:56.042 [main] INFO   c.x.b.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 13:01:56.120 [main] INFO   c.x.b.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties.name
+26.08.2020 13:01:56.127 [main] INFO   c.x.b.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 13:01:56.167 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 13:01:56.167 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 13:01:56.167 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 13:01:56.167 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 13:01:56.168 [main] INFO   c.x.b.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 13:28:27.360 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 13:28:27.432 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 13:28:27.439 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 13:28:27.475 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 13:28:27.476 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 13:28:27.477 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 13:28:27.477 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 13:28:27.478 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 13:28:32.790 [main] INFO   main - Введеный текст: sfdsgfhdfghdfghdfhdffghdfg
+26.08.2020 14:40:35.820 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:40:35.933 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:40:35.985 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:40:36.011 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:40:36.012 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:40:36.013 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:40:36.013 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:40:36.013 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 14:44:02.322 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:44:02.405 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:44:02.413 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:44:02.425 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:44:02.425 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:44:02.425 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:44:02.426 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:44:02.426 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 14:46:13.803 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:46:13.890 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:46:13.899 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:46:13.910 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:46:13.912 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:46:13.912 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:46:13.913 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:46:13.913 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 14:55:33.178 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:55:33.270 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:55:33.312 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:55:33.334 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:55:33.335 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:55:33.335 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:55:33.335 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:55:33.336 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 14:56:24.876 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:56:24.978 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:56:25.009 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:56:25.029 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:56:25.030 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:56:25.030 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:56:25.030 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:56:25.031 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 14:56:38.754 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:56:38.845 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:56:38.855 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:56:38.869 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:56:38.869 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:56:38.870 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:56:38.870 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:56:38.870 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 14:56:55.993 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:56:56.074 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:56:56.083 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:56:56.093 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:56:56.094 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:56:56.094 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:56:56.094 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:56:56.095 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 14:58:43.381 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:58:43.464 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:58:43.472 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:58:43.485 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:58:43.485 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:58:43.485 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:58:43.486 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:58:43.486 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 14:59:43.947 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 14:59:44.035 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 14:59:44.067 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 14:59:44.086 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 14:59:44.086 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 14:59:44.086 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 14:59:44.087 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 14:59:44.087 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:04:03.407 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:04:03.485 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:04:03.516 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:04:03.534 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:04:03.535 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:04:03.535 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:04:03.535 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:04:03.535 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:18:16.358 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:18:16.439 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:18:16.447 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:18:16.457 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:18:16.457 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:18:16.458 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:18:16.458 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:18:16.458 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:39:52.664 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:39:52.748 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:39:52.781 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:39:52.800 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:39:52.800 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:39:52.801 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:39:52.801 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:39:52.801 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:41:12.035 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:41:12.108 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:41:12.145 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:41:12.166 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:41:12.166 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:41:12.166 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:41:12.166 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:41:12.167 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:41:52.091 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:41:52.174 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:41:52.207 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:41:52.226 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:41:52.226 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:41:52.226 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:41:52.226 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:41:52.227 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:42:09.128 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:42:09.215 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:42:09.245 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:42:09.264 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:42:09.265 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:42:09.265 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:42:09.265 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:42:09.265 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:42:54.778 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:42:54.860 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:42:54.870 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:42:54.881 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:42:54.881 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:42:54.882 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:42:54.882 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:42:54.882 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:44:56.795 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:44:56.894 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:44:56.932 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:44:56.951 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:44:56.951 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:44:56.952 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:44:56.952 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:44:56.952 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:45:37.885 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:45:37.968 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:45:37.977 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:45:37.988 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:45:37.988 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:45:37.988 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:45:37.988 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:45:37.988 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:46:19.886 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:46:19.973 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:46:20.007 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:46:20.030 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:46:20.031 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:46:20.031 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:46:20.032 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:46:20.032 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:49:25.578 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:49:25.678 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:49:25.688 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:49:25.700 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:49:25.700 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:49:25.700 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:49:25.701 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:49:25.701 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:53:35.001 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:53:35.093 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:53:35.127 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:53:35.147 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:53:35.148 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:53:35.148 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:53:35.149 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:53:35.149 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 15:55:45.193 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 15:55:45.300 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 15:55:45.308 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 15:55:45.320 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 15:55:45.320 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 15:55:45.321 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 15:55:45.321 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 15:55:45.321 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:06:51.257 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:06:51.335 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:06:51.368 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:06:51.389 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:06:51.389 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:06:51.390 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:06:51.390 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:06:51.390 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:07:01.668 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:07:01.806 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:07:01.816 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:07:01.834 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:07:01.835 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:07:01.835 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:07:01.836 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:07:01.836 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:07:11.466 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:07:11.557 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:07:11.605 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:07:11.633 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:07:11.633 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:07:11.633 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:07:11.633 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:07:11.634 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:08:07.534 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:08:07.637 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:08:07.686 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:08:07.732 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:08:07.733 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:08:07.733 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:08:07.733 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:08:07.734 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:08:22.502 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:08:22.594 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:08:22.634 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:08:22.658 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:08:22.659 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:08:22.659 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:08:22.659 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:08:22.660 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:08:34.751 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:08:34.863 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:08:34.872 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:08:34.885 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:08:34.885 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:08:34.886 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:08:34.886 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:08:34.888 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:09:37.771 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:09:37.864 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:09:37.903 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:09:37.927 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:09:37.927 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:09:37.927 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:09:37.927 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:09:37.928 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:09:58.503 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:09:58.608 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:09:58.617 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:09:58.629 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:09:58.629 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:09:58.629 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:09:58.629 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:09:58.630 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:12:48.911 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:12:48.993 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:12:49.003 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:12:49.019 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:12:49.019 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:12:49.020 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:12:49.020 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:12:49.021 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:15:14.946 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:15:15.042 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:15:15.078 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:15:15.100 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:15:15.100 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:15:15.101 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:15:15.101 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:15:15.101 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:16:51.674 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:16:51.766 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:16:51.798 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:16:51.815 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:16:51.815 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:16:51.815 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:16:51.815 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:16:51.815 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:17:32.163 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:17:32.240 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:17:32.249 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:17:32.262 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:17:32.262 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:17:32.262 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:17:32.263 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:17:32.263 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:18:02.897 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:18:02.987 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:18:03.018 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:18:03.039 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:18:03.039 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:18:03.039 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:18:03.039 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:18:03.039 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:22:31.743 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:22:31.830 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:22:31.865 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:22:31.885 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:22:31.886 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:22:31.886 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:22:31.886 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:22:31.886 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:23:51.461 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:23:51.539 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:23:51.573 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:23:51.590 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:23:51.590 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:23:51.590 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:23:51.590 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:23:51.590 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:28:10.411 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:28:10.531 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:28:10.569 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:28:10.589 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:28:10.590 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:28:10.590 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:28:10.590 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:28:10.591 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:28:39.596 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:28:39.686 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:28:39.721 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:28:39.742 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:28:39.742 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:28:39.742 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:28:39.742 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:28:39.743 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:29:12.663 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:29:12.753 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:29:12.760 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:29:12.772 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:29:12.772 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:29:12.772 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:29:12.772 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:29:12.773 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:29:29.131 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:29:29.207 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:29:29.241 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:29:29.253 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:29:29.253 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:29:29.253 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:29:29.254 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:29:29.254 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:31:31.876 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:31:31.962 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:31:31.996 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:31:32.015 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:31:32.015 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:31:32.016 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:31:32.016 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:31:32.016 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:32:04.128 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:32:04.213 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:32:04.247 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:32:04.267 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:32:04.267 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:32:04.267 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:32:04.267 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:32:04.267 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:33:16.539 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:33:16.617 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:33:16.650 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:33:16.670 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:33:16.671 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:33:16.671 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:33:16.671 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:33:16.671 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:33:54.145 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:33:54.231 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:33:54.239 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:33:54.251 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:33:54.252 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:33:54.252 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:33:54.252 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:33:54.252 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:34:54.129 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:34:54.209 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:34:54.240 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:34:54.261 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:34:54.262 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:34:54.262 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:34:54.262 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:34:54.263 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:35:05.179 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:35:05.259 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:35:05.293 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:35:05.311 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:35:05.311 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:35:05.312 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:35:05.312 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:35:05.312 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:36:02.061 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:36:02.136 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:36:02.168 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:36:02.188 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:36:02.188 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:36:02.189 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:36:02.189 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:36:02.190 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:36:22.671 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:36:22.758 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:36:22.791 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:36:22.808 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:36:22.808 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:36:22.809 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:36:22.809 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:36:22.809 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:36:36.537 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:36:36.648 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:36:36.685 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:36:36.704 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:36:36.704 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:36:36.704 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:36:36.704 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:36:36.705 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:37:14.252 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:37:14.336 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:37:14.369 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:37:14.388 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:37:14.388 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:37:14.388 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:37:14.388 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:37:14.388 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:38:25.941 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:38:26.026 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:38:26.060 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:38:26.078 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:38:26.079 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:38:26.079 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:38:26.079 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:38:26.079 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:39:44.499 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:39:44.571 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:39:44.603 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:39:44.616 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:39:44.616 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:39:44.616 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:39:44.617 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:39:44.617 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:40:13.839 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:40:13.927 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:40:13.935 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:40:13.946 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:40:13.946 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:40:13.947 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:40:13.947 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:40:13.948 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:40:58.660 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:40:58.754 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:40:58.788 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:40:58.808 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:40:58.809 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:40:58.809 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:40:58.809 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:40:58.810 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:41:55.419 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:41:55.509 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:41:55.541 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:41:55.559 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:41:55.559 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:41:55.560 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:41:55.560 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:41:55.560 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:42:38.872 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:42:38.951 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:42:38.982 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:42:38.993 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:42:38.993 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:42:38.994 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:42:38.994 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:42:38.994 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:43:16.809 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:43:16.896 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:43:16.932 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:43:16.951 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:43:16.952 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:43:16.952 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:43:16.952 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:43:16.953 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:43:42.790 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:43:42.869 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:43:42.906 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:43:42.928 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:43:42.928 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:43:42.928 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:43:42.928 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:43:42.929 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:47:26.059 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:47:26.140 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:47:26.173 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:47:26.195 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:47:26.196 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:47:26.196 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:47:26.196 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:47:26.196 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:47:40.767 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:47:40.856 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:47:40.867 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:47:40.878 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:47:40.878 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:47:40.879 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:47:40.879 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:47:40.879 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:51:31.937 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:51:32.022 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:51:32.056 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:51:32.074 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:51:32.075 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:51:32.075 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:51:32.075 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:51:32.075 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:54:21.639 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:54:21.726 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:54:21.761 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:54:21.779 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:54:21.779 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:54:21.779 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:54:21.779 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:54:21.779 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:58:39.316 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:58:39.401 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:58:39.438 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:58:39.458 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:58:39.459 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:58:39.459 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:58:39.459 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:58:39.459 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:58:56.736 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:58:56.814 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:58:56.848 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:58:56.866 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:58:56.866 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:58:56.866 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:58:56.866 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:58:56.867 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar
+26.08.2020 16:59:31.502 [main] INFO   c.x.b.f.PropFileReader - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+26.08.2020 16:59:31.588 [main] INFO   c.x.b.f.PropFileReader - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+26.08.2020 16:59:31.620 [main] INFO   c.x.b.f.PropFileReader - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+26.08.2020 16:59:31.630 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+26.08.2020 16:59:31.630 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+26.08.2020 16:59:31.630 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+26.08.2020 16:59:31.630 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   changeFile : ChangeDate.xml
+26.08.2020 16:59:31.631 [main] INFO   c.x.b.f.PropFileReader - Найдено свойство:   projectName : FXbicomp.jar

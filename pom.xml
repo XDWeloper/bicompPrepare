@@ -25,6 +25,9 @@
         <kotlin.code.style>official</kotlin.code.style>
         <junit.version>4.12</junit.version>
         <slf4j.version>1.7.26</slf4j.version>
+        <jaxb.version>2.1</jaxb.version>
+        <jackson.xml.version>0.6.2</jackson.xml.version>
+        <jackson.xml.dataformat.version>2.9.8</jackson.xml.dataformat.version>
     </properties>
 
 
@@ -73,24 +76,8 @@
         <dependency>
             <groupId>com.fasterxml.jackson.dataformat</groupId>
             <artifactId>jackson-dataformat-xml</artifactId>
-            <version>2.9.4</version>
+            <version>${jackson.xml.dataformat.version}</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-serialization-core-jvm -->
-        <dependency>
-            <groupId>org.jetbrains.kotlinx</groupId>
-            <artifactId>kotlinx-serialization-core-jvm</artifactId>
-            <version>1.0.0-RC</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-serialization-runtime -->
-        <dependency>
-            <groupId>org.jetbrains.kotlinx</groupId>
-            <artifactId>kotlinx-serialization-runtime</artifactId>
-            <version>1.0-M1-1.4.0-rc</version>
-            <scope>runtime</scope>
-        </dependency>
-
-
 
     </dependencies>
 

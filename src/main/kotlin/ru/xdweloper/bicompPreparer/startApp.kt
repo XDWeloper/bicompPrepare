@@ -1,6 +1,5 @@
 package ru.xdweloper.bicompPreparer
 
-import ru.xdweloper.bicompPreparer.fileWorkers.ChangeFileReader
 import ru.xdweloper.bicompPreparer.fileWorkers.PropFileReader
 import ru.xdweloper.bicompPreparer.utils.getXLogger
 import java.util.*
@@ -17,12 +16,16 @@ fun main(args: Array<String>) {
 
     var inputStr : String? = null
     val propReader = PropFileReader()
-    val changesList = ChangeFileReader()
+//    val changesList = ChangeFileReader("ChangeDate.xml", "c:\\Temp\\BicompWorker\\source")
+
+    propReader.propFileList.forEach {
+
+    }
 
 
-    val reader = Scanner(System.`in`)
     while (!inputStr.equals("exit")) {
-            inputStr = reader.next()
+
+            inputStr = Scanner(System.`in`).next()
             logger.info(_INPUT_TEXT + inputStr)
         }
     }

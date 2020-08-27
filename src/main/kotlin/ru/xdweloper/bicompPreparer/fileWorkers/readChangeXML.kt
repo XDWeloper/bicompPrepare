@@ -2,6 +2,11 @@ package ru.xdweloper.bicompPreparer.fileWorkers
 
 import com.fasterxml.jackson.databind.SerializationFeature
 import com.fasterxml.jackson.dataformat.xml.XmlMapper
+import ru.xdweloper.bicompPreparer.ReaderState
+import ru.xdweloper.bicompPreparer._LADED_CHANGE_FILE
+import ru.xdweloper.bicompPreparer._LADED_FILE_ERROR
+import ru.xdweloper.bicompPreparer._SEARCH_CHANGE_FILE
+import ru.xdweloper.bicompPreparer.utils.getXLogger
 import java.io.File
 
 /**
@@ -10,28 +15,30 @@ import java.io.File
  *@author XDWeloper
  */
 
-class ChangeFileReader{
+class ChangeFileReader(val changeFileName: String, val changeFilePath: String){
 
-    var changesData = null
+    val logger = getXLogger(ChangeFileReader::class.java.toString())
+    var changesData: Changes? = null
+    var xmlReadState: ReaderState = ReaderState.OK
+    var xmlReaderError: String? = null
+    var filePath: String = ""
 
-    constructor(){
-        //testxml()
-
+    init {
+        filePath = changeFilePath + File.separator +  changeFileName
+        logger.info("$_SEARCH_CHANGE_FILE $filePath")
         readChangesFile()
         }
 
-//    private fun testxml() {
-//        val changes = Changes("bvz")
-//        val xmlMapper = XmlMapper()
-//        xmlMapper.enable(SerializationFeature.INDENT_OUTPUT)
-//        xmlMapper.writeValue(File("c:\\Temp\\BicompWorker\\source\\changes.xml"), changes)
-//    }
-
     private fun readChangesFile() {
-        val obj = convertXmlFile2DataObject("c:\\Temp\\BicompWorker\\source\\change.xml",Changes::class.java)
-        val o = 0
+        try {
+            changesData = convertXmlFile2DataObject(filePath,Changes::class.java) as Changes
+            logger.info("$_LADED_CHANGE_FILE")
+        }catch (e: Exception){
+            xmlReaderError = e.message
+            xmlReadState = ReaderState.ERROR
+            logger.info("$_LADED_FILE_ERROR $xmlReaderError")
+        }
     }
-
 
         fun convertXmlFile2DataObject(pathFile: String, cls: Class<*>): Any{
             val xmlMapper = XmlMapper()

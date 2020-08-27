@@ -1,11 +1,6 @@
 package ru.xdweloper.bicompPreparer.fileWorkers
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlText
-
 
 /**
  *@created 26 Август 2020 - 14:42
@@ -13,18 +8,19 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlText
  *@author XDWeloper
  */
 
-//@JsonIgnoreProperties(ignoreUnknown = true)
 data class Changes(
     @JacksonXmlElementWrapper(useWrapping = false)
-    val file: List<file> = arrayListOf()
+    val file: List<File> = arrayListOf()
 )
 
-data class file(
-    @JacksonXmlText
-    val file: String = ""
-    ,
-    @JacksonXmlProperty(isAttribute = true)
+data class File(
+    @JacksonXmlElementWrapper(useWrapping = false)
+    val modification: List<Modification> = arrayListOf() ,
     val fileName: String = ""
+)
 
-
+data class Modification(
+    val fixType: String = "",
+    val search: String = "",
+    val insert: String = ""
 )

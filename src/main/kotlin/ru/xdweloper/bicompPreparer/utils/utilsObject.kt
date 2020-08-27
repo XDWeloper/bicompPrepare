@@ -26,3 +26,5 @@ object  Message {
 }
 
 inline fun getXLogger(className: String?) = LoggerFactory.getLogger(className)
+
+
