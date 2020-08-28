@@ -31,9 +31,8 @@ object mainProcess {
     }
 
     private fun startBicompProcessing(propFile: PropFile): Boolean {
-        val kernelFileList: List<Triple<String,File,String>> = arrayListOf()
-        val kernelOkFileList: ArrayList<Pair<ResaltState,Triple<String,File,String>>> = arrayListOf()
-
+        val kernelFileList: MutableList<Triple<String,File,String>> = mutableListOf()
+        val kernelOkFileList: MutableList<Pair<ResaltState,Triple<String,File,String>>> = mutableListOf()
 
         /**проверяем наличие  FRREPRunner.java*/
         checkFRREPruner(propFile).takeUnless { it }?. let { return false }
@@ -41,7 +40,6 @@ object mainProcess {
         checkArch().takeUnless { it }?. let { return false }
         /**Ищем архивный файл(ы) с KERNEL*/
         checkKernelFiles(propFile, kernelFileList as ArrayList<Triple<String,File,String>>).takeUnless { it }?.let { return false }
-
 
         kernelFileList?.let {
             it.forEach { currentFile ->
@@ -60,18 +58,11 @@ object mainProcess {
     }
 
     private fun searchTargetFile(currentFile:Triple<String,File,String>,propFile: PropFile): Boolean {
-        val workDir = propFile.workDir
-        val versionDir = currentFile.first
-        val targetFileName = "FXbicomp.jar"
-        val fullTargetFilePath = buildPath(workDir,versionDir,"Client","JAPP",targetFileName)
+        val fullTargetFilePath = buildPath(propFile.workDir,currentFile.first,"Client","JAPP",propFile.projectName)
         return File(fullTargetFilePath).exists().also {
             Message.debug(fullTargetFilePath)
-            if(it){
-                Message.debug("FXBicomp найден")
-            }
-            else {
-                Message.debug("FXBicomp не найден")
-            }
+            if(it) Message.debug("${propFile.projectName} найден")
+            else   Message.debug("${propFile.projectName} не найден")
         }
     }
 

@@ -1,0 +1,1000 @@
+27.08.2020 13:07:29.499 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:07:29.586 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:07:29.620 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:07:29.642 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:07:29.642 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:07:29.644 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:07:29.645 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:07:29.645 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:07:29.651 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:08:04.834 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:08:04.921 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:08:04.930 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:08:04.942 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:08:04.942 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:08:04.943 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:08:04.943 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:08:04.944 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:08:04.954 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:08:09.889 [main] INFO   All pojo - [32mпроверка данных в файле  FXbicom.properties[0m
+27.08.2020 13:08:09.897 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 13:09:06.802 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:09:06.891 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:09:06.901 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:09:06.913 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:09:06.914 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:09:06.914 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:09:06.915 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:09:06.915 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:09:06.921 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:09:11.906 [main] INFO   All pojo - [32mпроверка данных в файле  FXbicom.properties[0m
+27.08.2020 13:09:11.913 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 13:50:07.058 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:50:07.143 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:50:07.152 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:50:07.192 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:50:07.192 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:50:07.192 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:50:07.193 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:50:07.194 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:50:07.200 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:50:11.141 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 13:50:11.149 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 13:50:11.149 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 13:50:11.149 [main] ERROR  All pojo - Отсутствуют доп.файлы  - FRREPRunner.java
+27.08.2020 13:50:36.171 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:50:36.265 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:50:36.273 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:50:36.290 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:50:36.291 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:50:36.292 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:50:36.292 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:50:36.293 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:50:36.304 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:50:40.695 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 13:50:40.702 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 13:50:40.702 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 13:50:40.702 [main] ERROR  All pojo - Отсутствуют доп.файлы  - FRREPRunner.java
+27.08.2020 13:51:37.478 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:51:37.566 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:51:37.574 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:51:37.589 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:51:37.589 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:51:37.589 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:51:37.589 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:51:37.590 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:51:37.601 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:51:41.627 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 13:51:41.635 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 13:51:41.635 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 13:53:36.117 [main] ERROR  All pojo - Отсутствуют доп.файлы  - FRREPRunner.java
+27.08.2020 13:53:43.546 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:53:43.647 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:53:43.658 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:53:43.699 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:53:43.699 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:53:43.699 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:53:43.700 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:53:43.700 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:53:43.711 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:53:48.643 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 13:53:48.651 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 13:53:48.651 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 13:55:12.871 [main] ERROR  All pojo - Отсутствуют доп.файлы  - FRREPRunner.java
+27.08.2020 13:55:16.956 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:55:17.030 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:55:17.038 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:55:17.050 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:55:17.051 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:55:17.051 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:55:17.052 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:55:17.052 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:55:17.059 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:55:20.130 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 13:55:20.136 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 13:55:20.136 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 13:55:25.050 [main] ERROR  All pojo - Отсутствуют доп.файлы  - FRREPRunner.java
+27.08.2020 13:55:39.629 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 13:55:39.720 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 13:55:39.729 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 13:55:39.741 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 13:55:39.743 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 13:55:39.744 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 13:55:39.745 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 13:55:39.745 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 13:55:39.752 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 13:55:42.223 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 13:55:42.231 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 13:55:42.231 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 13:55:45.554 [main] ERROR  All pojo - Отсутствуют доп.файлы  - FRREPRunner.java
+27.08.2020 14:01:03.282 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:01:03.362 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:01:03.372 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:01:03.385 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:01:03.386 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:01:03.388 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:01:03.388 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:01:03.390 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:01:03.398 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:01:05.809 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:01:05.816 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:01:05.816 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:10:24.179 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:10:24.325 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:10:24.334 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:10:24.376 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:10:24.383 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:10:24.386 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:10:24.386 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:10:24.387 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:10:24.416 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:10:28.095 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:10:28.102 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:10:28.102 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:10:32.818 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 14:20:21.863 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:20:21.948 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:20:21.956 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:20:21.991 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:20:21.991 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:20:21.992 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:20:21.992 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:20:21.993 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:20:22.001 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:20:23.958 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:20:23.966 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:20:23.966 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:20:23.967 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 14:20:28.990 [main] ERROR  All pojo - _NOT_PROJECT_FILE
+27.08.2020 14:21:10.392 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:21:10.490 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:21:10.499 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:21:10.513 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:21:10.514 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:21:10.514 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:21:10.514 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:21:10.515 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:21:10.521 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:21:15.478 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:21:15.489 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:21:15.489 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:21:15.490 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 14:21:19.086 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 14:21:37.964 [main] ERROR  All pojo - Файлы удовлетворяющие условию KERNEL отсутствуют 
+27.08.2020 14:22:32.517 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:22:32.606 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:22:32.615 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:22:32.631 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:22:32.631 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:22:32.632 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:22:32.633 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:22:32.635 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:22:32.644 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:22:36.279 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:22:36.286 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:22:36.286 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:22:36.287 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 14:22:36.292 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 14:22:36.292 [main] ERROR  All pojo - Файлы удовлетворяющие условию KERNEL отсутствуют 
+27.08.2020 14:23:11.377 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:23:11.476 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:23:11.485 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:23:11.502 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:23:11.507 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:23:11.508 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:23:11.509 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:23:11.510 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:23:11.522 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:23:15.264 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:23:15.272 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:23:15.272 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:23:15.272 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 14:23:15.276 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 14:23:59.318 [main] ERROR  All pojo - Файлы удовлетворяющие условию KERNEL отсутствуют 
+27.08.2020 14:24:03.666 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:24:03.779 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:24:03.788 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:24:03.805 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:24:03.805 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:24:03.806 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:24:03.807 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:24:03.809 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:24:03.819 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:24:08.555 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:24:08.562 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:24:08.562 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:24:08.563 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 14:24:08.568 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 14:24:52.005 [main] ERROR  All pojo - Файлы удовлетворяющие условию KERNEL отсутствуют 
+27.08.2020 14:24:56.545 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:24:56.625 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:24:56.634 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:24:56.658 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:24:56.658 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:24:56.659 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:24:56.659 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:24:56.661 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:24:56.671 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:24:58.782 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:24:58.789 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:24:58.790 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:24:58.791 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 14:24:58.807 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 14:25:41.092 [main] ERROR  All pojo - Файлы удовлетворяющие условию KERNEL отсутствуют 
+27.08.2020 14:25:45.741 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 14:25:45.826 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 14:25:45.835 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 14:25:45.849 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 14:25:45.850 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 14:25:45.850 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 14:25:45.851 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 14:25:45.852 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 14:25:45.860 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 14:25:48.792 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 14:25:48.796 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 14:25:48.797 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 14:25:48.797 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 14:25:48.802 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 15:22:55.793 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 15:22:55.917 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 15:22:55.927 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 15:22:55.943 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 15:22:55.944 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 15:22:55.944 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 15:22:55.944 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 15:22:55.946 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 15:22:55.969 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 15:22:58.454 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 15:22:58.461 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 15:22:58.462 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 15:23:27.977 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 15:23:27.984 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 15:23:52.432 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 15:23:52.539 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 15:23:52.550 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 15:23:52.602 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 15:23:52.602 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 15:23:52.603 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 15:23:52.604 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 15:23:52.607 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 15:23:52.622 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 15:23:55.821 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 15:23:55.827 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 15:23:55.828 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 15:23:59.874 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 15:23:59.883 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 15:27:09.119 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 15:27:09.219 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 15:27:09.235 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 15:27:09.257 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 15:27:09.257 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 15:27:09.257 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 15:27:09.257 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 15:27:09.258 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 15:27:09.268 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 15:27:12.293 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 15:27:12.302 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 15:27:12.302 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 15:27:12.303 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 15:27:12.305 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 15:32:35.676 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 15:32:35.764 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 15:32:35.772 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 15:32:35.784 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 15:32:35.784 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 15:32:35.784 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 15:32:35.784 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 15:32:35.784 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 15:32:35.790 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 15:32:38.144 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 15:32:38.181 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 15:32:38.181 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 15:32:38.182 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 15:32:38.225 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 15:32:48.087 [main] ERROR  All pojo - Нет архиватора
+27.08.2020 15:35:17.263 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 15:35:17.339 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 15:35:17.348 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 15:35:17.363 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 15:35:17.363 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 15:35:17.364 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 15:35:17.364 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 15:35:17.365 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 15:35:17.371 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 15:35:34.891 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 15:35:34.978 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 15:35:34.986 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 15:35:34.998 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 15:35:34.999 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 15:35:34.999 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 15:35:35.000 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 15:35:35.000 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 15:35:35.009 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 15:35:38.751 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 15:35:38.760 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 15:35:38.760 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 15:35:38.760 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 15:35:38.765 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 15:35:42.332 [main] ERROR  All pojo - Не найден штатный архиватор 7z.exe 
+ скопируйте архиватор в папку с пректом
+27.08.2020 15:37:28.480 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 15:37:28.565 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 15:37:28.578 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 15:37:28.592 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 15:37:28.592 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 15:37:28.592 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 15:37:28.593 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 15:37:28.595 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 15:37:28.606 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 15:37:30.611 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 15:37:30.620 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 15:37:30.620 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 15:37:30.621 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 15:37:30.625 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 15:37:43.378 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 15:37:43.472 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 15:37:43.481 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 15:37:43.497 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 15:37:43.498 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 15:37:43.499 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 15:37:43.499 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 15:37:43.501 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 15:37:43.513 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 15:37:45.640 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 15:37:45.648 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 15:37:45.648 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 15:37:45.649 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 15:37:45.651 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 15:37:45.652 [main] ERROR  All pojo - Не найден штатный архиватор 7z.exe скопируйте архиватор в папку с пректом
+27.08.2020 16:02:19.143 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:02:19.244 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:02:19.255 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:02:19.270 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:02:19.270 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:02:19.271 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:02:19.271 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:02:19.272 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:02:19.285 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:02:22.024 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:02:22.032 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:02:22.032 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:02:22.033 [main] ERROR  All pojo - Не найден штатный архиватор 7z.exe скопируйте архиватор в папку с пректом
+27.08.2020 16:02:44.838 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:02:44.917 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:02:44.931 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:02:44.950 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:02:44.950 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:02:44.951 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:02:44.951 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:02:44.952 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:02:44.958 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:02:47.049 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:02:47.130 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:02:47.131 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:02:47.132 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:02:47.142 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:07:01.837 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:07:01.928 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:07:01.936 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:07:01.974 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:07:01.975 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:07:01.975 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:07:01.976 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:07:01.979 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:07:01.987 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:07:03.825 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:07:03.842 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:07:03.843 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:07:03.843 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:07:03.848 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:10:29.803 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:10:29.916 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:10:29.926 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:10:29.938 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:10:29.938 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:10:29.938 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:10:29.939 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:10:29.939 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:10:29.951 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:10:31.810 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:10:31.826 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:10:31.826 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:10:31.827 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:10:31.832 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:14:20.894 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:14:20.990 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:14:20.999 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:14:21.013 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:14:21.013 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:14:21.013 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:14:21.013 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:14:21.014 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:14:21.023 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:14:22.559 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:14:22.574 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:14:22.575 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:14:22.575 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:14:22.580 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:17:15.863 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:17:16.004 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:17:16.014 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:17:16.035 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:17:16.035 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:17:16.035 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:17:16.036 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:17:16.039 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:17:16.049 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:17:43.853 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:17:43.862 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:17:43.863 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:17:43.863 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:17:43.868 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:19:32.223 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:19:32.327 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:19:32.336 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:19:32.350 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:19:32.350 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:19:32.350 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:19:32.351 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:19:32.351 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:19:32.360 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:19:34.600 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:19:34.615 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:19:34.615 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:19:34.615 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:19:34.620 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:21:13.565 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:21:13.659 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:21:13.669 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:21:13.687 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:21:13.687 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:21:13.687 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:21:13.689 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:21:13.690 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:21:13.704 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:21:16.006 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:21:16.014 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:21:16.014 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:21:16.015 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:21:16.029 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:27:07.694 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:27:07.805 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:27:07.815 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:27:07.831 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:27:07.831 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:27:07.832 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:27:07.832 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:27:07.832 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:27:07.839 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:27:09.706 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:27:09.721 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:27:09.722 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:27:09.722 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:27:09.724 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:27:13.091 [main] INFO   All pojo - SUCSESS
+27.08.2020 16:27:26.733 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:27:26.847 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:27:26.857 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:27:26.873 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:27:26.873 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:27:26.873 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:27:26.874 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:27:26.875 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:27:26.882 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:27:30.973 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:27:30.982 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:27:30.982 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:27:30.983 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:27:30.985 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:27:31.049 [main] ERROR  All pojo - ERROR
+27.08.2020 16:28:24.142 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:28:24.230 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:28:24.240 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:28:24.258 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:28:24.258 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:28:24.258 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:28:24.259 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:28:24.261 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:28:24.272 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:28:26.567 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:28:26.583 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:28:26.584 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:28:26.584 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:28:26.587 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:28:26.710 [main] ERROR  All pojo - ERROR 
+7-Zip 18.01 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-01-28
+
+Scanning the drive for archives:
+1 file, 34860098 bytes (34 MiB)
+
+Extracting archive: c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex
+--
+Path = c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex
+Type = 7z
+Offset = 205824
+Physical Size = 34654274
+Headers Size = 13218
+Method = LZMA2:24 BCJ
+Solid = +
+Blocks = 2
+
+
+
+27.08.2020 16:29:17.777 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:29:17.863 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:29:17.880 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:29:17.896 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:29:17.896 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:29:17.896 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:29:17.897 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:29:17.899 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:29:17.907 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:29:20.817 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:29:20.822 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:29:20.822 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:29:20.823 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:29:20.827 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:30:23.769 [main] ERROR  All pojo - ERROR 
+7-Zip 18.01 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-01-28
+
+Scanning the drive for archives:
+1 file, 34860098 bytes (34 MiB)
+
+Extracting archive: c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex
+--
+Path = c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex
+Type = 7z
+Offset = 205824
+Physical Size = 34654274
+Headers Size = 13218
+Method = LZMA2:24 BCJ
+Solid = +
+Blocks = 2
+
+
+
+27.08.2020 16:43:49.069 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:43:49.177 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:43:49.189 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:43:49.232 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:43:49.233 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:43:49.233 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:43:49.233 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:43:49.234 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:43:49.240 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:43:52.368 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:43:52.389 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:43:52.389 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:43:52.390 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:43:52.396 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:45:51.957 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:45:52.052 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:45:52.060 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:45:52.070 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:45:52.072 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:45:52.072 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:45:52.073 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:45:52.073 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:45:52.081 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:45:53.514 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:45:53.522 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:45:53.522 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:45:53.523 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:45:53.527 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:50:30.322 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:50:30.436 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:50:30.444 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:50:30.460 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:50:30.460 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:50:30.460 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:50:30.462 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:50:30.467 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:50:30.482 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:50:32.680 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:50:32.688 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:50:32.688 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:50:32.689 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:50:32.693 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:53:01.336 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:53:01.438 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:53:01.448 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:53:01.458 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:53:01.458 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:53:01.458 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:53:01.458 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:53:01.458 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:53:01.464 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:53:03.960 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:53:03.987 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:53:03.988 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:53:03.988 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:53:03.991 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:53:03.992 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex     "-o c:\\Temp\\BicompWorker\\work\\"
+27.08.2020 16:53:04.266 [main] ERROR  All pojo - ERROR 
+7-Zip 18.01 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-01-28
+
+Scanning the drive for archives:
+1 file, 34860098 bytes (34 MiB)
+
+Extracting archive: c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex
+--
+Path = c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex
+Type = 7z
+Offset = 205824
+Physical Size = 34654274
+Headers Size = 13218
+Method = LZMA2:24 BCJ
+Solid = +
+Blocks = 2
+
+
+
+27.08.2020 16:53:24.031 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:53:24.132 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:53:24.141 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:53:24.155 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:53:24.155 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:53:24.155 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:53:24.155 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:53:24.156 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:53:24.182 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:53:26.143 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:53:26.152 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:53:26.152 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:53:26.153 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:53:26.155 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:53:26.156 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex     "-oc:\\Temp\\BicompWorker\\work\\"
+27.08.2020 16:53:29.858 [main] INFO   All pojo - SUCSESS
+27.08.2020 16:53:58.588 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 16:53:58.681 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 16:53:58.689 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 16:53:58.714 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 16:53:58.715 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 16:53:58.715 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 16:53:58.716 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 16:53:58.716 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 16:53:58.737 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 16:54:00.903 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 16:54:00.913 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 16:54:00.914 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 16:54:00.915 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 16:54:00.917 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 16:54:00.918 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex     "-oc:\\Temp\\BicompWorker\\work\\\1"
+27.08.2020 16:54:04.474 [main] INFO   All pojo - SUCSESS
+27.08.2020 17:04:55.774 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:04:55.874 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:04:55.882 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:04:55.894 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:04:55.894 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:04:55.894 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:04:55.894 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:04:55.895 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:04:55.904 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:04:58.054 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:04:58.063 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:04:58.064 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:04:58.065 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:04:58.075 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:04:58.077 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_014"
+27.08.2020 17:05:01.632 [main] INFO   All pojo - SUCSESS
+27.08.2020 17:16:45.064 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:16:45.152 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:16:45.160 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:16:45.173 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:16:45.174 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:16:45.174 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:16:45.174 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:16:45.176 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:16:45.193 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:16:47.511 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:16:47.527 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:16:47.527 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:16:47.528 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:16:47.530 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:16:47.533 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_014"
+27.08.2020 17:16:47.533 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:16:50.627 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:18:11.979 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:18:12.079 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:18:12.091 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:18:12.104 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:18:12.104 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:18:12.104 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:18:12.105 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:18:12.105 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:18:12.119 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:18:15.088 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:18:15.095 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:18:15.095 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:18:15.095 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:18:15.097 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 17:18:15.098 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 17:18:15.099 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 17:18:15.099 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:18:15.099 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_184_KERNEL#39_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_184"
+27.08.2020 17:18:15.100 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:18:16.900 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:18:16.901 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_214_KERNEL#40.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_214"
+27.08.2020 17:18:16.901 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:18:20.736 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:18:20.737 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_006_KERNEL#01_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_006"
+27.08.2020 17:18:20.737 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:18:22.712 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:18:22.712 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_014"
+27.08.2020 17:18:22.712 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:18:25.476 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:30:01.215 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:30:01.309 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:30:01.320 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:30:01.331 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:30:01.332 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:30:01.332 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:30:01.333 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:30:01.333 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:30:01.347 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:30:04.301 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:30:04.308 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:30:04.308 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:30:04.309 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:30:04.310 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 17:30:04.311 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 17:30:04.312 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 17:30:04.312 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:30:04.312 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_184_KERNEL#39_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_184"
+27.08.2020 17:30:04.312 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:30:04.911 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:30:04.912 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_214_KERNEL#40.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_214"
+27.08.2020 17:30:04.912 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:30:07.954 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:30:07.954 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_006_KERNEL#01_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_006"
+27.08.2020 17:30:07.954 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:30:08.786 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:30:08.786 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_014"
+27.08.2020 17:30:08.786 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:30:11.596 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:30:29.610 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:30:29.735 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:30:29.751 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:30:29.790 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:30:29.791 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:30:29.791 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:30:29.792 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:30:29.792 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:30:29.801 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:30:32.916 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:30:32.923 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:30:32.923 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:30:32.924 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:30:32.928 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 17:30:32.929 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 17:30:32.930 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 17:30:32.930 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:31:07.592 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_184_KERNEL#39_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_184"
+27.08.2020 17:31:07.594 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:31:13.021 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:31:13.107 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:31:13.120 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:31:13.130 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:31:13.131 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:31:13.131 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:31:13.131 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:31:13.131 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:31:13.149 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:31:15.293 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:31:15.304 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:31:15.304 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:31:15.305 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:31:15.310 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 17:31:15.311 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 17:31:15.312 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 17:31:15.312 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:35:04.945 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:35:05.037 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:35:05.046 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:35:05.056 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:35:05.057 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:35:05.057 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:35:05.057 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:35:05.058 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:35:05.075 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:35:07.544 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:35:07.552 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:35:07.552 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:35:07.552 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:35:07.554 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 17:35:07.556 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 17:35:07.557 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 17:35:07.557 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:35:07.558 [main] DEBUG  All pojo - Проект версии 603_00_184 существует. Все равно обработать?(y/n)
+27.08.2020 17:35:12.227 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_184_KERNEL#39_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_184"
+27.08.2020 17:35:12.228 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:35:12.846 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:35:12.846 [main] DEBUG  All pojo - Проект версии 603_00_214 существует. Все равно обработать?(y/n)
+27.08.2020 17:35:16.137 [main] DEBUG  All pojo - Проект версии 604_00_006 существует. Все равно обработать?(y/n)
+27.08.2020 17:35:18.787 [main] DEBUG  All pojo - Проект версии 604_00_014 существует. Все равно обработать?(y/n)
+27.08.2020 17:35:20.840 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_014"
+27.08.2020 17:35:20.840 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:35:23.573 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:39:04.526 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:39:04.622 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:39:04.633 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:39:04.644 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:39:04.645 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:39:04.645 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:39:04.645 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:39:04.646 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:39:04.657 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:39:06.726 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:39:06.747 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:39:06.747 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:39:06.748 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:39:06.762 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 17:39:06.764 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 17:39:06.764 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 17:39:06.765 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:39:06.765 [main] DEBUG  All pojo - Проект версии 603_00_184 существует. Все равно обработать?(y/n)
+27.08.2020 17:39:09.967 [main] DEBUG  All pojo - N
+27.08.2020 17:39:09.968 [main] DEBUG  All pojo - Проект версии 603_00_214 существует. Все равно обработать?(y/n)
+27.08.2020 17:39:16.070 [main] DEBUG  All pojo - Y
+27.08.2020 17:39:16.071 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_214_KERNEL#40.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_214"
+27.08.2020 17:39:16.071 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:39:19.135 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:39:19.135 [main] DEBUG  All pojo - Проект версии 604_00_006 существует. Все равно обработать?(y/n)
+27.08.2020 17:39:20.312 [main] DEBUG  All pojo - N
+27.08.2020 17:39:20.313 [main] DEBUG  All pojo - Проект версии 604_00_014 существует. Все равно обработать?(y/n)
+27.08.2020 17:39:21.436 [main] DEBUG  All pojo - N
+27.08.2020 17:51:11.300 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 17:51:11.400 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 17:51:11.408 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 17:51:11.445 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 17:51:11.445 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 17:51:11.446 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 17:51:11.446 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 17:51:11.447 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 17:51:11.463 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 17:51:14.269 [main] DEBUG  All pojo - y
+27.08.2020 17:51:14.279 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 17:51:14.288 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 17:51:14.288 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 17:51:14.289 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 17:51:14.293 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 17:51:14.294 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 17:51:14.295 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 17:51:14.295 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 17:51:14.295 [main] DEBUG  All pojo - Проект версии 603_00_184 существует. Все равно обработать?(y/n)
+27.08.2020 17:51:19.930 [main] DEBUG  All pojo - y
+27.08.2020 17:51:19.931 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_184_KERNEL#39_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_184"
+27.08.2020 17:51:19.931 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:51:20.534 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:51:20.534 [main] DEBUG  All pojo - Проект версии 603_00_214 существует. Все равно обработать?(y/n)
+27.08.2020 17:51:22.292 [main] DEBUG  All pojo - n
+27.08.2020 17:51:22.292 [main] DEBUG  All pojo - Проект версии 604_00_006 существует. Все равно обработать?(y/n)
+27.08.2020 17:51:24.186 [main] DEBUG  All pojo - y
+27.08.2020 17:51:24.186 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_006_KERNEL#01_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_006"
+27.08.2020 17:51:24.186 [main] DEBUG  All pojo - Wait........
+27.08.2020 17:51:25.008 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 17:51:25.009 [main] DEBUG  All pojo - Проект версии 604_00_014 существует. Все равно обработать?(y/n)
+27.08.2020 17:51:26.116 [main] DEBUG  All pojo - n
+27.08.2020 18:02:39.607 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 18:02:39.712 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 18:02:39.721 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 18:02:39.762 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 18:02:39.763 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 18:02:39.763 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 18:02:39.763 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 18:02:39.764 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 18:02:39.776 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 18:02:42.560 [main] DEBUG  All pojo - y
+27.08.2020 18:02:42.571 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 18:02:42.669 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 18:02:42.669 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 18:02:42.670 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 18:02:42.675 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 18:02:42.676 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 18:02:42.677 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 18:02:42.677 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 18:02:42.678 [main] DEBUG  All pojo - Проект версии 603_00_184 существует. Все равно обработать?(y/n)
+27.08.2020 18:02:46.933 [main] DEBUG  All pojo - y
+27.08.2020 18:02:46.933 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_184_KERNEL#39_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_184"
+27.08.2020 18:02:46.933 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:02:47.525 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:03:19.338 [main] DEBUG  All pojo - Проект версии 603_00_214 существует. Все равно обработать?(y/n)
+27.08.2020 18:03:26.859 [main] DEBUG  All pojo - y
+27.08.2020 18:03:26.859 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_214_KERNEL#40.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_214"
+27.08.2020 18:03:26.859 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:03:29.921 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:03:29.921 [main] DEBUG  All pojo - Проект версии 604_00_006 существует. Все равно обработать?(y/n)
+27.08.2020 18:03:33.189 [main] DEBUG  All pojo - y
+27.08.2020 18:03:33.189 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_006_KERNEL#01_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_006"
+27.08.2020 18:03:33.189 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:03:34.002 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:03:34.003 [main] DEBUG  All pojo - Проект версии 604_00_014 существует. Все равно обработать?(y/n)
+27.08.2020 18:03:35.301 [main] DEBUG  All pojo - y
+27.08.2020 18:03:35.301 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_014"
+27.08.2020 18:03:35.301 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:03:38.076 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:05:44.064 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 18:05:44.155 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 18:05:44.162 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 18:05:44.201 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 18:05:44.202 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 18:05:44.207 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 18:05:44.207 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 18:05:44.207 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 18:05:44.219 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 18:05:46.416 [main] DEBUG  All pojo - н
+27.08.2020 18:05:54.292 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 18:05:54.383 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 18:05:54.392 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 18:05:54.401 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 18:05:54.401 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 18:05:54.402 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 18:05:54.402 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 18:05:54.402 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 18:05:54.408 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 18:05:56.997 [main] DEBUG  All pojo - y
+27.08.2020 18:05:57.007 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 18:05:57.044 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 18:05:57.045 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 18:05:57.045 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 18:05:57.048 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 18:05:57.050 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 18:05:57.050 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 18:05:57.051 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 18:05:57.052 [main] DEBUG  All pojo - Проект версии 603_00_184 существует. Все равно обработать?(y/n)
+27.08.2020 18:05:58.981 [main] DEBUG  All pojo - y
+27.08.2020 18:05:58.981 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_184_KERNEL#39_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_184"
+27.08.2020 18:05:58.981 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:05:59.571 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:05:59.572 [main] DEBUG  All pojo - FXBicomp найден
+27.08.2020 18:05:59.572 [main] DEBUG  All pojo - Проект версии 603_00_214 существует. Все равно обработать?(y/n)
+27.08.2020 18:06:03.140 [main] DEBUG  All pojo - y
+27.08.2020 18:06:03.141 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_214_KERNEL#40.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_214"
+27.08.2020 18:06:03.141 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:06:06.194 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:06:06.195 [main] DEBUG  All pojo - FXBicomp найден
+27.08.2020 18:06:06.195 [main] DEBUG  All pojo - Проект версии 604_00_006 существует. Все равно обработать?(y/n)
+27.08.2020 18:06:08.021 [main] DEBUG  All pojo - y
+27.08.2020 18:06:08.022 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_006_KERNEL#01_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_006"
+27.08.2020 18:06:08.022 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:06:08.869 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:06:08.869 [main] DEBUG  All pojo - FXBicomp найден
+27.08.2020 18:06:08.869 [main] DEBUG  All pojo - Проект версии 604_00_014 существует. Все равно обработать?(y/n)
+27.08.2020 18:06:10.623 [main] DEBUG  All pojo - y
+27.08.2020 18:06:10.623 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p604_00_014_KERNEL#05.ex  "-oc:\\Temp\\BicompWorker\\work\\\604_00_014"
+27.08.2020 18:06:10.630 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:06:13.456 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:06:13.456 [main] DEBUG  All pojo - FXBicomp найден
+27.08.2020 18:08:04.204 [main] INFO   All pojo - Читаем файлы из каталога:  D:\KotlinProjects\bicompPrepare
+27.08.2020 18:08:04.301 [main] INFO   All pojo - Найден файл:  D:\KotlinProjects\bicompPrepare\FXbicom.properties
+27.08.2020 18:08:04.313 [main] INFO   All pojo - Прочитан текст:   [readDir=c:\\Temp\\BicompWorker\\read\\, workDir=c:\\Temp\\BicompWorker\\work\\, sourceDir=c:\\Temp\\BicompWorker\\source\\, changeFile=ChangeDate.xml, projectName=FXbicomp.jar]
+27.08.2020 18:08:04.325 [main] INFO   All pojo - Найдено свойство:   readDir : c:\\Temp\\BicompWorker\\read\\
+27.08.2020 18:08:04.326 [main] INFO   All pojo - Найдено свойство:   workDir : c:\\Temp\\BicompWorker\\work\\
+27.08.2020 18:08:04.327 [main] INFO   All pojo - Найдено свойство:   sourceDir : c:\\Temp\\BicompWorker\\source\\
+27.08.2020 18:08:04.327 [main] INFO   All pojo - Найдено свойство:   changeFile : ChangeDate.xml
+27.08.2020 18:08:04.327 [main] INFO   All pojo - Найдено свойство:   projectName : FXbicomp.jar
+27.08.2020 18:08:04.335 [main] INFO   All pojo - Найден файл свойств  FXbicom.properties запустить обработку?(y/n):
+27.08.2020 18:08:07.657 [main] DEBUG  All pojo - y
+27.08.2020 18:08:07.660 [main] INFO   All pojo - проверка данных в файле  FXbicom.properties
+27.08.2020 18:08:07.669 [main] INFO   All pojo - Свойства успешно проверены 
+27.08.2020 18:08:07.669 [main] INFO   All pojo - Проверяем наличие доп.файлов  - FRREPRunner.java
+27.08.2020 18:08:07.669 [main] INFO   All pojo - Поиск архива с проектом  - KERNEL....
+27.08.2020 18:08:07.671 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_184_KERNEL#39_5286U.ex
+27.08.2020 18:08:07.673 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p603_00_214_KERNEL#40.ex
+27.08.2020 18:08:07.673 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_006_KERNEL#01_5286U.ex
+27.08.2020 18:08:07.674 [main] INFO   All pojo - Найден файл:  c:\Temp\BicompWorker\read\p604_00_014_KERNEL#05.ex
+27.08.2020 18:08:07.674 [main] DEBUG  All pojo - Проект версии 603_00_184 существует. Все равно обработать?(y/n)
+27.08.2020 18:08:08.969 [main] DEBUG  All pojo - y
+27.08.2020 18:08:08.969 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_184_KERNEL#39_5286U.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_184"
+27.08.2020 18:08:08.969 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:08:09.556 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:08:09.556 [main] DEBUG  All pojo - c:\\Temp\\BicompWorker\\work\\\603_00_184\Client\JAPP\FXbicomp.jar
+27.08.2020 18:08:09.556 [main] DEBUG  All pojo - FXBicomp найден
+27.08.2020 18:08:09.557 [main] DEBUG  All pojo - Проект версии 603_00_214 существует. Все равно обработать?(y/n)
+27.08.2020 18:08:14.430 [main] DEBUG  All pojo - y
+27.08.2020 18:08:14.430 [main] DEBUG  All pojo - 7z.exe x -y -r c:\\Temp\\BicompWorker\\read\\\p603_00_214_KERNEL#40.ex  "-oc:\\Temp\\BicompWorker\\work\\\603_00_214"
+27.08.2020 18:08:14.430 [main] DEBUG  All pojo - Wait........
+27.08.2020 18:08:17.486 [main] INFO   All pojo - Проект успешно разархивирован
+27.08.2020 18:08:17.487 [main] DEBUG  All pojo - c:\\Temp\\BicompWorker\\work\\\603_00_214\Client\JAPP\FXbicomp.jar
+27.08.2020 18:08:17.487 [main] DEBUG  All pojo - FXBicomp найден
+27.08.2020 18:08:17.487 [main] DEBUG  All pojo - Проект версии 604_00_006 существует. Все равно обработать?(y/n)
