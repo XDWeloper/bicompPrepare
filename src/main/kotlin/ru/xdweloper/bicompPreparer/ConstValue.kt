@@ -44,3 +44,9 @@ const val _SUCSESS_ARJ = "Проект успешно разархивирова
 
 
 
+const val PREPARE_PROJECT_DIR_NAME = "FXBicompUnpackRezult"
+const val PROJECT_DIR_NAME = "FXBicompProject"
+const val LIBRARY_DIR_NAME = "_LAST_VERSION_LIB"
+
+
+
