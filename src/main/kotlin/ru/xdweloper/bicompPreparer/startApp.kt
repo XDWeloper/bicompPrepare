@@ -14,7 +14,6 @@ import java.util.*
 
 
 fun main(args: Array<String>) {
-
     val propReader = PropFileReader()
     propReader.propFileList.forEach {
         Message.print("$_SERACHED_PROPFILE ${it.propFileName} $_Q_SERACHED_PROPFILE",MessageType.INFO)
