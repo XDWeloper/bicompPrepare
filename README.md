@@ -1,6 +1,8 @@
 ![xd logo](https://pbs.twimg.com/profile_images/378800000361553610/780500fb045ecc4194640f24a84d3e95_bigger.png)  
 # BicompPreparer
-
+Приложение для внутренного использования компании Инверсия-кавказ
+![inverion_logo](https://inversion-kavkaz.ru/images/logo_may.png)
+[invesion-kavkaz](https://inversion-kavkaz.ru/)
 
 Консольное приложение для автоматического форимирования **FXBocomp.jar** файлов.
 Для начала работы необходимо сформировать файл настроек [properties_file](./FXbicom.properties).
@@ -13,3 +15,7 @@ changeFile= XML файл замены
 projectName= Итя проекта
 pom= Шаблон pom файла
 mavenDir= Каталог где лежит maven
+````
+
+автор: XDWeloper
+
