@@ -4,7 +4,7 @@
 ![inverion_logo](https://inversion-kavkaz.ru/images/logo_may.png)
 [invesion-kavkaz](https://inversion-kavkaz.ru/)
 
-Консольное приложение для автоматического форимирования **FXBocomp.jar** файлов.
+Консольное приложение для автоматического форимирования **FXBicomp.jar** файлов.
 Для начала работы необходимо сформировать файл настроек [properties_file](./FXbicom.properties).
 
 ````
