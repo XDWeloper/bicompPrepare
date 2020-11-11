@@ -1,6 +1,6 @@
 ![xd logo](https://pbs.twimg.com/profile_images/378800000361553610/780500fb045ecc4194640f24a84d3e95_bigger.png)  
 # BicompPreparer
-Приложение для внутренного использования компании Инверсия-кавказ
+#####_Приложение для внутренного использования компании Инверсия-кавказ_
 ![inverion_logo](https://inversion-kavkaz.ru/images/logo_may.png)
 [invesion-kavkaz](https://inversion-kavkaz.ru/)
 
@@ -17,5 +17,5 @@ pom= Шаблон pom файла
 mavenDir= Каталог где лежит maven
 ````
 
-автор: XDWeloper
+автор: Dmitry Hvastunov
 
