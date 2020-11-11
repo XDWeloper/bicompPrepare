@@ -1,7 +1,7 @@
 ![xd logo](https://pbs.twimg.com/profile_images/378800000361553610/780500fb045ecc4194640f24a84d3e95_bigger.png)  
 # BicompPreparer
 #####_Приложение для внутренного использования компании Инверсия-кавказ_
-![inverion_logo](https://inversion-kavkaz.ru/images/logo_may.png)
+![inverion_logo](https://inversion-kavkaz.ru/images/logo_1.svg)
 [invesion-kavkaz](https://inversion-kavkaz.ru/)
 
 Консольное приложение для автоматического форимирования **FXBicomp.jar** файлов.
